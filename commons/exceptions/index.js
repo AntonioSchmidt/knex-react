@@ -1,0 +1,5 @@
+const RESOURCE_NOT_FOUND_CODE = 'RESOURCE_NOT_FOUND'
+
+module.exports = {
+    RESOURCE_NOT_FOUND_CODE
+}
