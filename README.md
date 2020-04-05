@@ -1,4 +1,4 @@
-##Running the project
+## Running the project
 
 To run the backend `cd server && yarn install && yarn start`
 
